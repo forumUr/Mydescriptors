@@ -1,0 +1,8 @@
+переход в нужный каталог (cd /d disk:\fold\subfold
+C:\Program Files\Git>CD /d f:\UR\Mydescriptors\
+
+f:\UR\Mydescriptors>
+
+соманды тотала
+https://www.nosyrev.net/2015/10/total-commander.html
+
